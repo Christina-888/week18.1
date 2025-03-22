@@ -1,0 +1,42 @@
+body {
+  margin-top: 4%;
+  margin-left: 4%;
+}
+
+.title {
+  color: brown;
+  font-weight: bolder;
+}
+
+.subtitle {
+  color: rgb(87, 15, 15);
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+  padding-bottom: 2%;
+}
+
+li {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#task-input {
+  padding: 1%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.button {
+  padding: 1%;
+  background-color: rgb(218, 87, 87);
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1vw;
+}
+
+.inform-message {
+  display: none;
+  color: grey;
+}
+
